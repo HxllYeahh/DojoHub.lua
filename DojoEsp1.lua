@@ -3,4 +3,3 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/HxllYeahh/DojoHub.lua
 else
 game.Players.LocalPlayer:Kick("wrong game buddy")
 end
-end
